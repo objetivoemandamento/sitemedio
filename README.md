@@ -20,3 +20,17 @@ Compatível com hospedagem estática para Vite. Domínio, hospedagem, manutenç�
 
 ## Status
 Estrutura inicial em desenvolvimento.
+
+## Executar localmente
+
+1. Instale Node.js LTS.
+2. Execute `npm install`.
+3. Execute `npm run dev` para desenvolvimento.
+4. Execute `npm run build` para gerar a versão de produção em `dist/`.
+
+## Antes de publicar
+- Troque todos os dados de demonstração em `src/config.js`.
+- Teste o WhatsApp em celular e computador.
+- Use apenas fotos e textos autorizados e informações verdadeiras.
+- Confira acessibilidade, responsividade e links.
+- Não publique segredos, tokens ou credenciais no frontend ou no GitHub.
